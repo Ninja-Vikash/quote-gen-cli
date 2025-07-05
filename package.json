@@ -1,0 +1,24 @@
+{
+  "name": "quote-gen-cli",
+  "version": "1.0.0",
+  "description": "A motivational quote generator CLI tool ❤️",
+  "type": "commonjs",
+  "bin": {
+    "motiquote": "./bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninja-Vikash/quote-gen-cli.git"
+  },
+  "keywords": [],
+  "author": "ninja-vikash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ninja-Vikash/quote-gen-cli/issues"
+  },
+  "homepage": "https://github.com/Ninja-Vikash/quote-gen-cli#readme"
+}
