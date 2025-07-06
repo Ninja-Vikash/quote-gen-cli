@@ -23,6 +23,12 @@ motiquote
 
 # to add your own motivational quote
 motiquote --add "I'm the BEST!"
+
+# to rest the quotes
+npm run reset
+
+# to get default quotes
+npm run default
 ```
 
 > [!tip]\
